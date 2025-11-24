@@ -1,0 +1,43 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "__bit_reference": "cpp",
+    "__locale": "cpp",
+    "__split_buffer": "cpp",
+    "__verbose_abort": "cpp",
+    "array": "cpp",
+    "cctype": "cpp",
+    "clocale": "cpp",
+    "cmath": "cpp",
+    "cstddef": "cpp",
+    "cstdint": "cpp",
+    "cstdio": "cpp",
+    "cstdlib": "cpp",
+    "cstring": "cpp",
+    "ctime": "cpp",
+    "cwchar": "cpp",
+    "cwctype": "cpp",
+    "deque": "cpp",
+    "execution": "cpp",
+    "memory": "cpp",
+    "initializer_list": "cpp",
+    "iosfwd": "cpp",
+    "limits": "cpp",
+    "locale": "cpp",
+    "new": "cpp",
+    "stack": "cpp",
+    "stdexcept": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "typeinfo": "cpp",
+    "variant": "cpp",
+    "vector": "cpp",
+    "ios": "cpp",
+    "algorithm": "cpp"
+  },
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "반드시 한국어로 커밋 포매팅에 맞추어 작성하십시오."
+    }
+  ]
+}
