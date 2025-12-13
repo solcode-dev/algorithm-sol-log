@@ -1,0 +1,12 @@
+list1 = []
+list2 = [1,2,3]
+list3 = ['a','b',]
+list4 = list()
+list5 = list('abc') # ['a','b','c']
+list6 = list([1,2,3])
+list7 = list((1,2,3))
+list8 = list({1,2,3})
+list9 = list(range(7))
+list10 = list(range(3,8))
+list11 = list(range(3,13,2))
+list12 = [None] * 5 # [None, None, None, None, None]
